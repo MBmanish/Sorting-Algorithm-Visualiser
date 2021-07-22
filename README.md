@@ -12,4 +12,6 @@ Visualization of working of sorting algorithm coded in javasript and animation e
 
 > Quick Sort
 
+WEBSITE-https://mbmanish.github.io/Sorting-Algorithm-Visualiser/
+
 ![Sorting Algo Visualiser](https://user-images.githubusercontent.com/84837582/119627122-85a43580-be29-11eb-861a-53dbbbe6b72b.jpg)
